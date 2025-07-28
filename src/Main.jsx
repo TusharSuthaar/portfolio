@@ -29,7 +29,7 @@ const Main = () => {
         <div className="flex1">
         <p className='follow_me'>follow me: </p>
         <div className="logos">
-        <a href=""><img src={codechef} alt="" /></a>
+        <a href=""><img src={codechef} alt="www.linkedin.com/in/tusharsuthar0511" /></a>
         <a href="https://github.com/TusharSuthaar" target="_blank" rel="noreferrer"><img src={github} alt=""  /></a>
         <a href="www.linkedin.com/in/tusharsuthar0511" target="_blank" rel="noreferrer"><img src={linked_in} alt=""></img></a>
         <a href=" " target="_blank" rel="noreferrer"><img src={leetcodes} alt=""></img></a>
